@@ -1,5 +1,6 @@
 name: re3 conan+cmake
 on:
+  workflow_dispatch:
   pull_request:
   push:
   release:
